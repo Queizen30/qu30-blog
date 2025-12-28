@@ -1,0 +1,14 @@
+title: "QU30 - Blog"
+description: "A blog talking about coding, Minecraft, cats, etc."
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
+
+minima:
+  skin: dark
+
+exclude:
+  - README.md
+  - .github
+  - CNAME
